@@ -23,7 +23,3 @@ yarn dev
 Install Insomnia to run this project
 
 https://insomnia.rest/
-
-## Open Project
-
-http://localhost:8080/
